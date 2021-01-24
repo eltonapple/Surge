@@ -1,6 +1,5 @@
 #!name=TikTok
-#!desc=解除 TikTok 区域限制。
-#!system=ios
+#!desc=解除 TikTok 区域限制
 
 [URL Rewrite]
 (?<=_region=)CN(?=&) JP 307
